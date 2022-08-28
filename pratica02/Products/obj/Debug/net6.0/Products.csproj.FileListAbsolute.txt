@@ -1,0 +1,15 @@
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.csproj.AssemblyReference.cache
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.AssemblyInfoInputs.cache
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.AssemblyInfo.cs
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.csproj.CoreCompileInputs.cache
+/home/tabata/csharp/praticando/pratica02/Products/bin/Debug/net6.0/Products
+/home/tabata/csharp/praticando/pratica02/Products/bin/Debug/net6.0/Products.deps.json
+/home/tabata/csharp/praticando/pratica02/Products/bin/Debug/net6.0/Products.runtimeconfig.json
+/home/tabata/csharp/praticando/pratica02/Products/bin/Debug/net6.0/Products.dll
+/home/tabata/csharp/praticando/pratica02/Products/bin/Debug/net6.0/Products.pdb
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.dll
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/refint/Products.dll
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.pdb
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/Products.genruntimeconfig.cache
+/home/tabata/csharp/praticando/pratica02/Products/obj/Debug/net6.0/ref/Products.dll
