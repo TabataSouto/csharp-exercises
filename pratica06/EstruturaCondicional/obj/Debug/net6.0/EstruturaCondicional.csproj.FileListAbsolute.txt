@@ -1,0 +1,12 @@
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.deps.json
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.dll
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.pdb
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.csproj.AssemblyReference.cache
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.AssemblyInfoInputs.cache
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.AssemblyInfo.cs
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.csproj.CoreCompileInputs.cache
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.dll
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/refint/EstruturaCondicional.dll
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.pdb
+/home/tabata/csharp/praticando/pratica06/EstruturaCondicional/obj/Debug/net6.0/ref/EstruturaCondicional.dll
