@@ -1,0 +1,6 @@
+/home/tabata/csharp/praticando/WorkTools.Test/bin/Debug/net6.0/CoverletSourceRootsMapping
+/home/tabata/csharp/praticando/WorkTools.Test/obj/Debug/net6.0/WorkTools.Test.csproj.AssemblyReference.cache
+/home/tabata/csharp/praticando/WorkTools.Test/obj/Debug/net6.0/WorkTools.Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabata/csharp/praticando/WorkTools.Test/obj/Debug/net6.0/WorkTools.Test.AssemblyInfoInputs.cache
+/home/tabata/csharp/praticando/WorkTools.Test/obj/Debug/net6.0/WorkTools.Test.AssemblyInfo.cs
+/home/tabata/csharp/praticando/WorkTools.Test/obj/Debug/net6.0/WorkTools.Test.csproj.CoreCompileInputs.cache

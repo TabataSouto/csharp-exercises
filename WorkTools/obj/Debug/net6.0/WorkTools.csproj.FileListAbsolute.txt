@@ -1,0 +1,15 @@
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.csproj.AssemblyReference.cache
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.AssemblyInfoInputs.cache
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.AssemblyInfo.cs
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.csproj.CoreCompileInputs.cache
+/home/tabata/csharp/praticando/WorkTools/bin/Debug/net6.0/WorkTools
+/home/tabata/csharp/praticando/WorkTools/bin/Debug/net6.0/WorkTools.deps.json
+/home/tabata/csharp/praticando/WorkTools/bin/Debug/net6.0/WorkTools.runtimeconfig.json
+/home/tabata/csharp/praticando/WorkTools/bin/Debug/net6.0/WorkTools.dll
+/home/tabata/csharp/praticando/WorkTools/bin/Debug/net6.0/WorkTools.pdb
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.dll
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/refint/WorkTools.dll
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.pdb
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/WorkTools.genruntimeconfig.cache
+/home/tabata/csharp/praticando/WorkTools/obj/Debug/net6.0/ref/WorkTools.dll
